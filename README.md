@@ -6,19 +6,15 @@ A modern Book Management System built using React.js and Vite that allows users 
 
 ## 🔗 Live Demo
 
-👉 **Live Project:** [Add Your Live Link Here]
+👉 **Live Project:** : https://react-pr-6-one.vercel.app
 
-Example:
-https://react-pr-6.vercel.app
+
 
 ---
 
 ## 🎥 Project Explanation
 
-👉 **Project Explanation Video:** [Add Your Video Link Here]
-
-Example:
-https://youtu.be/your-video-id
+👉 **Project Explanation Video:** https://drive.google.com/file/d/1oHbBvqiA1PdyHK033YPNHmPK69Od-EdF/view?usp=drive_link
 
 ---
 
